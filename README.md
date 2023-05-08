@@ -10,7 +10,7 @@ from emojis import Emojis
 
 emoji_parser = Emojis()
 
- # loading, cat, dog...
+# loading, cat, dog...
 parsed_emojis = emoji_parser.search("topic")
 
 # You will get list of emojis | List[dict[str, Any]]
