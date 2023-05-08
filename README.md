@@ -1,5 +1,5 @@
 # pkeorley/emojis
-#### Parse and download all emojis from [discadia.com](https://discadia.com) with `pkeolrey/emojis`
+#### Parse and download all emojis from [discadia.com](https://discadia.com) with `pkeorley/emojis`
 ## You can use console to fast parsing
 ```bash
 python emojis.py query --json filename --download --print
