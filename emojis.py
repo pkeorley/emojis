@@ -1,5 +1,4 @@
 import os
-import urllib
 from pprint import pprint
 
 import requests
